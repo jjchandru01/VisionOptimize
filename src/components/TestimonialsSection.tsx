@@ -4,20 +4,20 @@ import React from 'react';
 // Added <span> tags for visual highlighting
 const principles = [
   {
-    text: "We don't guess; we validate. Our blueprints are built on a <span class=\"text-saas-orange font-medium\">rigorous analysis of your data</span>, market trends, and hidden asset value. We find the real opportunity before building the plan.",
-    author: "Strategy Must Be Data-Driven",
+    text: "We forge certainty, we don't entertain guesses. Our strategies are built on <span class=\"text-saas-orange font-medium\">a brilliant, definitive analysis of your data, the most exciting market trends, and the maximum value hidden in your assets.</span> We unlock the true, prosperous opportunity first, then design the plan for your guaranteed breakthrough.",
+    author: "Confident Validation",
     position: "Principle 01",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto-format&fit=crop&w=100&h=100" // Abstract data/charts
   },
   {
-    text: "Why build from scratch? The fastest, most profitable path is <span class=\"text-saas-orange font-medium\">monetizing the assets you already own</span>: your network, your data, and your customer trust.",
-    author: "Leverage Existing Assets",
+    text: "Why start over when you can power up? The shortest, most profitable distance to success is <span class=\"text-saas-orange font-medium\">exponentially leveraging the assets you already own: your magnetic network, your proprietary goldmine of data, and your deep-rooted customer loyalty.</span>",
+    author: "Strategy Must Be Data-Driven",
     position: "Principle 02",
     image: "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?auto-format&fit=crop&w=100&h=100" // Abstract network/connections
   },
   {
-    text: "A 100-page report is useless. We deliver <span class=\"text-saas-orange font-medium\">actionable, phased roadmaps</span>—from a 6-month MVP to a 3-year scaled ecosystem. We provide the *how*, not just the *what*.",
-    author: "Action Over Theory",
+    text: "We bypass theory for tangible wins. We don't deliver lengthy reports,<span class=\"text-saas-orange font-medium\"> we hand you inspiring, phased roadmaps,from a powerful 6-month launch to a thriving 3-year scaled ecosystem</span>. We provide the strategic how that fuels immediate action, making your future a vibrant reality.",
+    author: "Leverage Existing Assets",
     position: "Principle 03",
     image: "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?auto-format&fit=crop&w=100&h=100" // People in a meeting/planning
   }
