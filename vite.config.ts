@@ -3,7 +3,8 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig(({ mode }) => ({
-  base: "/saasland/",
+  // base: "/saasland/", // <-- THIS WAS THE PROBLEM
+  base: "/", // <-- THIS IS THE FIX
   server: {
     host: "::",
     port: 8080,
